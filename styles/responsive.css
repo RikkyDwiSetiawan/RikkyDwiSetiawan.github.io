@@ -19,6 +19,25 @@
     display: block;
     cursor: pointer;
   }
+  #hero {
+    padding: 5rem 0 10rem 0;
+}
+
+#skills {
+    padding: var(--sectionPadding);
+}
+
+#services {
+    padding: var(--sectionPadding);
+}
+
+#portfolios {
+    padding: var(--sectionPadding);
+}
+
+#contact {
+    padding: var(--sectionPadding);
+}
 
   .toggle-burger .line-1 {
     transform: rotate(-45deg) translate(-5px, 7px);
@@ -122,4 +141,20 @@
   .pre-title {
     font-size: 0.7rem;
   }
+
+  #skills {
+    padding: var(--sectionPadding);
+}
+
+#services {
+    padding: var(--sectionPadding);
+}
+
+#portfolios {
+    padding: var(--sectionPadding);
+}
+
+#contact {
+    padding: var(--sectionPadding);
+}
 }
